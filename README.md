@@ -1,5 +1,5 @@
 # Bouncy-Basket
-We have made this game only 5 days.
+We have made this game with Beren Elçin Polat only 5 days.
 
 ![image](https://github.com/Gizoskos/Bouncy-Basket/assets/114617639/ff5a5099-55b2-4342-9fcd-accf0a01d63c)
 <br>
